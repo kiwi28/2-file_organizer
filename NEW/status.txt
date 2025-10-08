@@ -1,0 +1,18 @@
+File Organization Report
+==============================
+
+
+.js: 2 files
+  - index2.js
+  - index.js
+
+.html: 2 files
+  - index.html
+  - index2.html
+
+.png: 2 files
+  - kitty.png
+  - pupy.png
+
+.gif: 1 files
+  - potato.gif
